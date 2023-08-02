@@ -14,3 +14,11 @@ Coming soon.
 Here is m.e with the Model 'G' lamp.
 
 ![a bath in light](/media/wp_tucker.png "Here is what I looked like at the time")
+
+### Year 2016 - A dramatic pause
+
+Summer 2015 I completed the Model 'G9' (Valerie) and arrived at a theoretical concept called "inductive linking".
+
+### Year 2023 - A (re)new(ed) beginning
+
+Now we are starting to take this all very seriously.
