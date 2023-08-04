@@ -17,7 +17,7 @@ Here is m.e with the Model 'G' lamp.
 
 ### Year 2016 - A dramatic pause
 
-Summer 2015 I completed the Model 'G9' (Valerie) and arrived at a theoretical concept called "inductive linking".
+Summer 2015 I completed the Model 'G9' (Valerie) and arrived at a theoretical concept called "inductive linking". This was the last, besides the last stop of the power array in the winter of 2011.
 
 ### Year 2023 - A (re)new(ed) beginning
 
