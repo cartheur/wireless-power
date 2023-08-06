@@ -5,9 +5,9 @@ A collection of my works on wireless power | 2004 - 2023
 
 I first became fascinated with the concept of wireless power after reading about Nikola Tesla as a teenager. I tried building a couple of circuits in the basement of my family's house when 13 and 14. Soldering iron was too large but was largely unsuccessful in magnetic-magnetic circuits. Did well with an optical one, though. A ruby-crystal laser excited by a xenon-charged tube. Some years passed and later, I set out to make practical models of the transmission of energy without wires. I set my sights on a model that I could easily reproduce and test, this was Tesla's USPTO #645,546. 
 
-### March 2004 - Getting serious
+### Summer 2001 - Spring 2004 - Revivial of an old love
 
-Coming soon.
+As I was (re)entering University and focusing on physics classes, the work of Tesla did not arise but I got to play around with the computation of and quantities related to electromagnetism, gravity, and the importance of force.
 
 ### Year 2011 - Making progress
 
