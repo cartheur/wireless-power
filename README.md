@@ -22,3 +22,5 @@ Summer 2015 I completed the Model 'G9' (Valerie) and arrived at a theoretical co
 ### Year 2023 - A (re)new(ed) beginning
 
 Now we are starting to take this all very seriously.
+
+New coil testing frame is ready for preview of the Kuan effect.
