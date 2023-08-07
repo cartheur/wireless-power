@@ -11,7 +11,7 @@ As I was (re)entering University and focusing on physics classes, the work of Te
 
 ### Year 2011 - Making progress
 
-Here is m.e with the Model 'G' lamp.
+From February to November that year, no less than eight versions of the Model 'G' were constructed. It wouldn't be until the sixth that I realized I could greatly simplify the circuit. Here is m.e with the Model 'G' lamp.
 
 ![a bath in light](/media/wp_tucker.png "Here is what I looked like at the time")
 
